@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="salud" height="200px" src="https://concepto.de/wp-content/uploads/2013/08/salud-OMS-e1551914081412.jpg">
+                <img alt="salud" height="200px" src="[https://concepto.de/wp-content/uploads/2013/08/salud-OMS-e1551914081412.jpg](https://raw.githubusercontent.com/MariaTD17/Colita_de_rana/refs/heads/main/images/rana.png)">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
