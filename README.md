@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="salud" height="200px" src="https://www.redbubble.com/es/i/pegatina/Sana-Sana-Colita-De-Rana-de-MiDomingoMart/80649575.EJUG5"
+                <img alt="salud" height="200px" src="(https://github.com/MariaTD17/Colita_de_rana/blob/main/images/rana.png)"
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
