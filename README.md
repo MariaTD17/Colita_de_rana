@@ -3,8 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="salud" height="200px" src="(https://github.com/MariaTD17/Colita_de_rana/blob/main/images/rana.png)"
-            </td>
+                <img alt="salud" height="200px" src="(https://github.com/MariaTD17/Colita_de_rana/blob/main/images/rana.png)"</td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
             </td>
