@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td align="center">
-                <h1><b>Trabajo Final-El Poderoso Salud</b></h1>
+                <h1><b>Trabajo Final-Colita De Rana</b></h1>
             </td>
         </tr>
         <tr>
