@@ -174,14 +174,14 @@ El software podra identificar y clasificar a pacientes con atención prioritaria
 
 # @markdown ### Usar el código a continuación para crear el diagrama de Gantt por Tarea
 df = pd.DataFrame([
-    dict(Tarea="1.Terminar el GitHub", FechaInicio='2024-09-28', FechaFin='2024-09-29', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="1.Terminar el GitHub", FechaInicio='2024-09-28', FechaFin='2024-09-29', Responsable='Camila' "Cristian"  "Isabela"           "Sofia"),
     dict(Tarea="2.Primera entrega", FechaInicio='2024-09-25', FechaFin='2024-09-29', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
-    dict(Tarea="3.Inicio de analisis del problema", FechaInicio='2024-10-04', FechaFin='2024-10-04', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="3.Inicio de analisis del problema", FechaInicio='2024-10-04', FechaFin='2024-10-04', Responsable='Camila' "Cristian"         "Isabela" "Sofia"),
     dict(Tarea="4.Codigo", FechaInicio='2024-10-12', FechaFin='2024-11-23', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
-    dict(Tarea="5.Revision de errores", FechaInicio='2024-10-20', FechaFin='2024-10-21', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="5.Revision de errores", FechaInicio='2024-10-20', FechaFin='2024-10-21', Responsable='Camila' "Cristian"  "Isabela"          "Sofia"),
     dict(Tarea="6.Asesorias", FechaInicio='2024-10-25', FechaFin='2024-10-30', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
     dict(Tarea="7.Por definir", FechaInicio='2024-11-01', FechaFin='2024-11-15', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
-    dict(Tarea="8.Fiesta de entrega final", FechaInicio='2024-11-26', FechaFin='2024-11-30', Responsable='Camila' "Cristian"  "Isabela" "Sofia")
+    dict(Tarea="8.Fiesta de entrega final", FechaInicio='2024-11-26', FechaFin='2024-11-30', Responsable='Camila' "Cristian"  "Isabela"      "Sofia")
 ])
 df = df.sort_values(by='Tarea')
 fig = px.timeline(
