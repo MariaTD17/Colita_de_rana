@@ -171,8 +171,44 @@ El software podra identificar y clasificar a pacientes con atención prioritaria
 **Usabilidad:** Debe ser una interfaz intuitiva y fácil de usar.
 
 *   ## **7.	Plan de proyecto**
-*   
-![Logo](images/gantt.png)
+  **1. Terminar el GitHub**
+
+Todos los integrantes se reunieron para terminar el GitHub empezado en clase
+
+**2. Primera entrega**
+
+Se hicieron reuniones en las horas de la noche desde el día 25 de septiembre para empezar a realizar la entrega numero 1 y se finalizó el 29 de septiembre.
+
+**3.Inicio análisis del problema**
+
+Se hará una reunión que nos ayudará a comprender y visualizar mejor la situación para empezar con el planteamiento del codigo.
+
+**4.Código**
+
+Empezar el código con los lineamientos dados.
+
+**5.Revisión de errores**
+
+Detectamos los errores que podamos tener en el código para obetener asesorías.
+
+**6.Asesorías**
+
+Asistiremos a asesorias buscando soluciones a los problemas que se nos puedan ir presentando.
+
+**7.Por definir**
+
+Actividades que vayan surgiendo a lo largo del proyecto.
+
+**8.Fiesta de entrega final**
+
+Pachangueo y muchas polas por el esfuerzo.  
+
+**Presupuesto**
 
 El presupuesto en promedio para nuestro proyecto, el cual está compuesto por cuatro estudiantes será de $260.982 por estudiante. Teniendo en cuenta que las reuniones serán los fines de semana, el grupo completo estará presente en las reuniones que durarán aproximadamente 3 horas por día.
+
+**Diagrama de gantt**
+
+![Logo](images/gantt.png)
+
 
