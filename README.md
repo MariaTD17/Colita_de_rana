@@ -171,6 +171,9 @@ El software podra identificar y clasificar a pacientes con atención prioritaria
 **Usabilidad:** Debe ser una interfaz intuitiva y fácil de usar.
 
 *   ## **7.	Plan de proyecto**
+*   
+![Logo](images/gantt.png)
+
 
 <td rowspan="3">
                 <img alt="salud" height="50px" src="(https://github.com/MariaTD17/Colita_de_rana/blob/main/images/gantt.png)"</td>
