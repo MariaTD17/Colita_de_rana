@@ -95,34 +95,102 @@ El repositorio debe tener lo siguientes procesos debidamente reportados.
 ## **1.   Integrantes**
 En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
 
+**Maria Camila Toro Durán**
+
+Hola, mucho gusto, me llamo Maria Camila Toro Duran nací en Bello pero vivo en Medellín, tengo 25 años y trabajé hasta el semestre pasado, actualmente vivo con mis padres y tengo una hermana. Me encantan los animales en especial los gatos 🐈 y por eso tengo 3. No soy muy buena programando pero me gusta mucho la materia.
+P.D: nos vemos en simulación el próximo semestre, materia a la que le tengo mucho miedo.
+
+**Laura Sofia Areiza Holguin**
+
+Holiiiii, soy Laura Sofía Areiza Holguín ♥️, nací en Medellín, tengo 23 años, actualmente trabajo en un Call Center, vivo con mi hermano hace 1 año y por fin compramos lavadora 🎉tengo 1 gata llamada Julieta pero vive con mi mami.
+P.D: nos vemos en simulación el próximo semestre donde espero ser parte del 81% que pasa la materia.
+
+**Isabela Pelaez Londoño**
+
+Holaa, me llamo Isabela Pelaez Londoño, nací en Medellín el 28 de diciembre, tengo 21 años, trabajo durante los periodos de vacaciones, vivo con mi mamá, mi abuela, mi tía y mis dos primos. Tenemos dos perritas, la cocker spaniel es mía y la pitbull es de mi abuela. Me gusta la edición de video y creación de contenido audiovisual.
+P.D: nos vemos en simulación el próximo semestre, espero no sufrir mucho🙂‍↕️
+
+**Cristian David Bustamante**
+
+Buenas, mi nombre es Cristian David Bustamante tengo 21 años soy oriundo de un pueblo de Antioquia con coordenadas
+6°33′12″ N, 74°47′14″
+Actualmente vivo en Bello y tengo 2 gatos. Trabajo en un call center y en mis proyectos personales.
+
 ## **2.	Vínculos académicos y descripción**
 
-*   Elemento de la lista
-*   Elemento de la lista
+**Maria Camila Toro Durán**
 
+Pertenezco al programa de Ingeniera Industrial y habilidades poseo muchas, soy muy responsable, entusiasta, tengo una buena capacidad analítica, siempre estoy alegre, soy empatica, y poseo la capacidad de ser una buena líder con una comunicación asertiva.
 
+**Laura Sofia Areiza Holguin**
 
-Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
+Estoy en el programa de Ingeniería Industrial, mis habilidades y fortalezas son las siguientes: tengo la capacidad de adaptabilidad, soy responsable, carismática, y empatica, también soy muy sociable.
+
+**Isabela Pelaez Londoño**
+
+Estoy en el programa de Ingeniera Industrial. Mis habilidades son: trabajo en equipo, comunicación efectiva, escucha activa, adaptabilidad, y
+pensamiento crítico.
+
+**Cristian David Bustamante**
+
+Estoy en el programa de ingeniería industrial y mis habilidades son: Empatico, resolución de problemas, auto confianza, Adaptabilidad, integridad.
+
 
 ## **3.	Nombre del proyecto y detalles**
 
-Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
+Colita de rana es un software, que le permitirá al usuario conocer las condiciones de su cita asignada, como la hora,fecha,lugar,tipo de cita,medico que lo atenderá e información personal.
 
 ## **4.	Licencia del software**
 
-Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
+Este trabajo tiene licencia bajo CC POR 4.0
 
 ## **5.	Reporte de visión**
 
-Proporciona una descripción general del software, sus objetivos y beneficios.
+El software tiene como objetivo optimizar la gestión de citas médicas, permitiendo una reducción en el tiempo de espera a través de la autogestión. Además, el sistema mejorará la experiencia del paciente agilizando el acceso a los servicios.
+
+La EPS tendrá un aumento en la eficiencia operativa,una mayor satisfacción del paciente, reduciendo los tiempos de espera. Al optimizar estos procesos, la EPS también podrá ahorrar recursos y  mejorar la planificación de su personal.
 
 ## **6.	Especificación de requisitos**
+**REQUISITOS FUNCIONALES**
+Consultar la base de datos para poder brindarle la información correcta,que le permita a la EPS cumplir sus objetivos satisfaciendo las necesidades del usuario, teniendo presente, que se cuenta con dos interfaces dependiendo de la persona que este usando el software.
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-*   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
+El software debe brindarle la opción de tipo de documento:cédula de ciudadania, tarjeta de identidad, cédula de extranjería, registro civil, entre otras.
+
+El software podra identificar y clasificar a pacientes con atención prioritaria.
+
+**REQUISITOS NO FUNCIONALES**
+
+**Rendimiento:** el sistema debe ser capaz de gestionar simultaneamente más ó menos 100 personas.
+
+**Escalabilidad:** debe ser capaz de soportar el crecimiento en la cantidad de pacientes atendidos.
+
+**Seguridad:** los datos deben ser tratados bajo los reglamentos de confidencialidad.
+
+**Disponibilidad:** Debe garantizar una disponibilidad de 99.9%
+
+**Usabilidad:** Debe ser una interfaz intuitiva y fácil de usar.
 
 *   ## **7.	Plan de proyecto**
 
-Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
-*   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+# @markdown ### Usar el código a continuación para crear el diagrama de Gantt por Tarea
+df = pd.DataFrame([
+    dict(Tarea="1.Terminar el GitHub", FechaInicio='2024-09-28', FechaFin='2024-09-29', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="2.Primera entrega", FechaInicio='2024-09-25', FechaFin='2024-09-29', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="3.Inicio de analisis del problema", FechaInicio='2024-10-04', FechaFin='2024-10-04', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="4.Codigo", FechaInicio='2024-10-12', FechaFin='2024-11-23', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="5.Revision de errores", FechaInicio='2024-10-20', FechaFin='2024-10-21', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="6.Asesorias", FechaInicio='2024-10-25', FechaFin='2024-10-30', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="7.Por definir", FechaInicio='2024-11-01', FechaFin='2024-11-15', Responsable='Camila' "Cristian"  "Isabela" "Sofia"),
+    dict(Tarea="8.Fiesta de entrega final", FechaInicio='2024-11-26', FechaFin='2024-11-30', Responsable='Camila' "Cristian"  "Isabela" "Sofia")
+])
+df = df.sort_values(by='Tarea')
+fig = px.timeline(
+    df,
+    x_start="FechaInicio",
+    x_end="FechaFin",
+    y="Tarea",
+    color='Responsable',
+    category_orders={'Tarea': sorted(df['Tarea'].tolist(), reverse=True)}  # Ordenar las tareas alfabéticamente
+)
+fig.update_yaxes(autorange="reversed")
+fig.show()
