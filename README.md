@@ -173,4 +173,4 @@ El software podra identificar y clasificar a pacientes con atención prioritaria
 *   ## **7.	Plan de proyecto**
 
 <td rowspan="3">
-                <img alt="salud" height="200px" src="(https://github.com/MariaTD17/Colita_de_rana/blob/main/images/gantt.png)"</td>
+                <img alt="salud" height="150px" src="(https://github.com/MariaTD17/Colita_de_rana/blob/main/images/gantt.png)"</td>
