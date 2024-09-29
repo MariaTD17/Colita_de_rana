@@ -207,7 +207,7 @@ Pachangueo y muchas polas por el esfuerzo.
 
 El presupuesto en promedio para nuestro proyecto, el cual está compuesto por cuatro estudiantes será de $260.982 por estudiante. Teniendo en cuenta que las reuniones serán los fines de semana, el grupo completo estará presente en las reuniones que durarán aproximadamente 3 horas por día.
 
-**Diagrama de gantt**
+**Diagrama de Gantt**
 
 ![Logo](images/gantt.png)
 
