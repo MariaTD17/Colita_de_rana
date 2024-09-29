@@ -194,3 +194,6 @@ fig = px.timeline(
 )
 fig.update_yaxes(autorange="reversed")
 fig.show()
+
+<td rowspan="3">
+                <img alt="salud" height="200px" src="https://raw.githubusercontent.com/MariaTD17/Colita_de_rana/refs/heads/main/images/rana0.png"</td>
