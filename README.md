@@ -211,6 +211,67 @@ El presupuesto en promedio para nuestro proyecto, el cual está compuesto por cu
 
 ![Logo](images/gantt.png)
 
+   ## **8.	Plan de versionado**
+
+**1.	 Primera Entrega (actas)**
+
+**Fecha:** 15 al 18 de agosto
+
+Se realizaron dos reuniones nocturnas para realizar las actas de entendimiento y compromiso.
+
+**Descripción:**
+
+Trabajamos de manera colaborativa como grupo para redactar las actas de compromiso y entendimiento, asegurándonos de reflejar las necesidades y expectativas de todos los integrantes. Nuestro objetivo principal era garantizar que estas actas promuevan el mejor desarrollo del trabajo del curso, fomentando un ambiente de respeto, cooperación y claridad en las responsabilidades y metas compartidas. De esta forma, buscamos crear una base sólida para el éxito colectivo en nuestras actividades académicas.
+
+**2.	Segunda entrega (GitHub)**
+
+**Fecha:**  27 al 29 de septiembre
+
+Llevamos a cabo dos reuniones para avanzar en nuestras actividades. Durante la primera reunión, logramos trabajar hasta el punto 5, quedando pendiente que cada integrante enviara su respectiva descripción. Posteriormente, en la segunda reunión, completamos los puntos restantes y finalizamos el Diagrama de Gantt, consolidando así el trabajo de forma conjunta.
+
+**3.	Avances**
+
+**Fecha:**  9 al 10 de noviembre
+
+Iniciamos con el planteamiento del problema y el diseño de la estructura básica del proyecto, identificando las funcionalidades claves que debería tener el algoritmo.
+
+**4.	Menú principal**
+
+**Fecha:**  10 al 15 de noviembre
+
+Se llevó a cabo una reunión con el propósito de mejorar la estructura y presentación del código proporcionado previamente por el profesor para el menú principal. Además, se inició la incorporación de los componentes siguientes del algoritmo, avanzando en el desarrollo conjunto del proyecto.
+
+**5.	Continuación del código**
+
+**Fecha:**  20 al 21 de noviembre
+
+Debido a la situación actual de la universidad, realizamos reuniones durante dos días, con una duración aproximada de 2 horas cada una, para finalizar la composición del código. Esto nos permitirá enfocarnos en su mejora durante el fin de semana siguiente.
+
+**6.	Errores**
+
+**Fecha:**  25 de noviembre
+
+Tuvimos una reunión por la tarde, en la cual revisamos y solucionamos los errores que el código presentaba anteriormente, logrando así finalizarlo de manera satisfactoria.
+
+**7.	GitHub**
+
+**Fecha:**  03 de diciembre 🎉 🍺🍻
+
+Se realiza una reunión donde se solucionan los siguientes puntos: 
+
+•	Realizamos el manual de usuario en una nueva carpeta para subirlo al repositorio.
+
+•	Se descarga el código de colab para subirlo en una nueva carpeta al repositorio.
+
+•	Por último, elaboramos el plan de versionado, utilizando el grupo de WhatsApp como referencia para establecer fechas claras y revisar las reuniones realizadas a lo largo del semestre, así como los avances correspondientes en cada una de ellas.
+
+**8.	Fafarrancho**
+
+**Fecha:**  08 de diciembre 🎉 🍺🍻
+
+**¡FELIZ NAVIDAD! 🎅🏽**
+
+
 
 
 
