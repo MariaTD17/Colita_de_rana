@@ -1,6 +1,6 @@
 # **Manual de Usuario para el Sistema EPS "Sana, Sana, Colita de Rana" 🐸**
 ________________________________________
-# ** Introducción **
+### Introducción
 Bienvenido al sistema "Sana, Sana, Colita de Rana". Este programa fue diseñado para gestionar citas médicas de manera sencilla y amigable. El diseño del programa incluye menús claros y un estilo temático de ranas para hacer tu experiencia más agradable. 🐸
 Este manual te guiará a través del uso de las diferentes funciones del programa, tanto para pacientes como para administradores.
 ________________________________________
